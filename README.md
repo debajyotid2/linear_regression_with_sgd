@@ -1,6 +1,6 @@
 # Linear Regression using Stochastic Gradient Descent
 
-This repository is to build my own understanding of low level matrix and linear algebra operations in C and NumPy in Python. 
+This repository is a demonstration of low level matrix and linear algebra operations in C and NumPy in Python. 
 
 ## Dependencies
 
