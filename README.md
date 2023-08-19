@@ -12,7 +12,9 @@ To run a multivariate linear regression problem with the default settings and st
 
 ```
 cd c
-make
+mkdir build
+cd build
+cmake ..
 ./run
 ```
 
